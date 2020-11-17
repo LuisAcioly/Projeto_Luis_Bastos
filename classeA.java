@@ -16,11 +16,11 @@ public class classeA {
     }
 
     public void setA1(int A1){
-        this.A1 = A1
+        this.A1 = A1;
     }
 
     public void setA2(int A2){
-        this.A2 = A2
+        this.A2 = A2;
     }
 
     public void MA1() {
@@ -30,6 +30,11 @@ public class classeA {
 
     public void MA2() {
         System.out.print("MA2");
+
+    }
+
+    public void MA3() {
+        System.out.print("Alteração a classe A partir do clone");
 
     }
 

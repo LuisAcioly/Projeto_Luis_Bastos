@@ -33,8 +33,4 @@ public class classeB {
 
     }
 
-    public static void main(String[] args) {
-        
-    }
-
 }

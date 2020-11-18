@@ -22,3 +22,9 @@ public class classeD {
 
     }
 }
+    
+    public void MD4() {
+        System.out.print("MD4");
+
+    }
+}

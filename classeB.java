@@ -2,7 +2,7 @@ public class classeB {
     private int B1;
     private float B2;
 
-    public classeA(int B1, float B2){
+    public classeB(int B1, float B2){
         this.B1 = B1;
         this.B2 = B2;
     }
@@ -30,6 +30,11 @@ public class classeB {
 
     public void MB2() {
         System.out.print("MB2");
+
+    }
+
+    public void MB3() {
+        System.out.print("MB3");
 
     }
 
